@@ -13,12 +13,24 @@
         <action
             android:id="@+id/action_placesListFragment_to_placeDetailFragment"
             app:destination="@id/placeDetailFragment" />
+        <action
+            android:id="@+id/action_placesListFragment_to_addPlaceFragment"
+            app:destination="@id/addPlaceFragment" />
     </fragment>
     <fragment
         android:id="@+id/placeDetailFragment"
-        android:name="com.example.visitplanner.PlaceDetailFragment"
-        android:label="Place Detail"
+        android:name="com.example.visitplanner.detail.PlaceDetailFragment"
+        android:label="@string/place_detail"
         tools:layout="@layout/fragment_place_detail">
+        <argument
+            android:name="place"
+            app:argType="com.example.visitplanner.Place" />
+    </fragment>
+    <fragment
+        android:id="@+id/addPlaceFragment"
+        android:name="com.example.visitplanner.add_place.AddPlaceFragment"
+        android:label="@string/add_place"
+        tools:layout="@layout/fragment_add_place">
         <argument
             android:name="place"
             app:argType="com.example.visitplanner.Place" />

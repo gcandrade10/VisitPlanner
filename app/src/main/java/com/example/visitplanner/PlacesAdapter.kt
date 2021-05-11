@@ -9,6 +9,7 @@ import kotlinx.parcelize.Parcelize
 
 @Parcelize
 data class Place(
+    val id: Int,
     val label: String,
     val isVisited: Boolean,
     val description: String,

@@ -1,0 +1,56 @@
+[
+  {
+    "label": "Cloud Gate",
+    "lat_lng": [ 41.8826572, -87.6254979 ],
+    "visited": false,
+    "description": "Cloud Gate is a public sculpture by Indian-born British artist Sir Anish Kapoor"
+  },
+  {
+    "label": "Mount Wilson Observatory",
+    "lat_lng": [ 34.0238891, -117.9933462 ],
+    "visited": true,
+    "description": "The Mount Wilson Observatory (MWO) is an astronomical observatory in Los Angeles County, California"
+  },
+  {
+    "label": "Jamestown",
+    "lat_lng": [ -15.9288412, -5.7195721 ],
+    "visited": true,
+    "description": "Capital of the British Overseas Territory of Saint Helena, Ascension and Tristan da Cunha."
+  },
+  {
+    "label": "Mount Kenya",
+    "lat_lng": [ -0.5611914, 37.4100569 ],
+    "visited": false,
+    "description": "Mount Kenya is the highest mountain in Kenya and the second-highest in Africa, after Kilimanjaro."
+  },
+  {
+    "label": "Hallasan",
+    "lat_lng": [ 32.8415541, 128.9439315 ],
+    "visited": false,
+    "description": "Hiking is allowed during daytime only on this shield volcano, the highest peak in South Korea."
+  },
+  {
+    "label": "Lake Baikal",
+    "lat_lng": [ 53.6591339, 104.5814833 ],
+    "visited": false,
+    "description": "Hiking is allowed during daytime only on this shield volcano, the highest peak in South Korea."
+  },
+  {
+    "label": "Kantubek, Uzbekistan",
+    "lat_lng": [ 42.8444805, 60.025942 ],
+    "visited": false,
+    "description": "Kantubek is a ghost town on Vozrozhdeniya Island in the Aral Sea."
+  },
+  {
+    "label": "K2",
+    "lat_lng": [ 36.614249, 74.4548528 ],
+    "visited": true,
+    "description": "This rugged peak in the Karakoram range is the 2nd-highest peak in the world."
+  },
+  {
+    "label": "Cordillera Huayhuash",
+    "lat_lng": [ -16.4207226, -74.1867167 ],
+    "visited": true,
+    "description": "Beyond its sweeping views, this scenic mountain range in Peru features hiking trails, campgrounds and a lake."
+  }
+]
